@@ -17,7 +17,7 @@ function Navbar() {
           <Link
             href="/"
             className=" text-[#16f2b3] text-3xl font-bold">
-            Andrew Martinez
+            Juan Santos
           </Link>
         </div>
         <button className="lg:hidden" onClick={toggleMenu}>
